@@ -1,2 +1,2 @@
-# Repositório público do programador júnior Clelton José Mielke
+# Repositório público de **Clelton José Mielke**
 GitHub Clelton Mielke
